@@ -1,0 +1,2 @@
+- name: Remote Time
+  uses: Plabick/Remote-Time-Action@1.01
